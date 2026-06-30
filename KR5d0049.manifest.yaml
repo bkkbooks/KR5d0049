@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR5d0049/v1
+canonical_location: https://kanripo.org/bkk/KR5d0049/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天隱子
+  identifiers:
+    alt_id:
+    - DZ1026
+    - JY158
+  date: '2015-08-28 21:41:59.783118'
+  source:
+    repository: kanripo
+    path: KR5d0049
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  base_edition: CK-KZ
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- {short: CK-KZ, label: 【重刊道藏輯要】}
+- {short: CK-KZ-jye}
+- {short: HFL, label: 【正統道藏・涵芬樓版】}
+- {short: YP-C, label: 【原版道藏輯要】}
+- {short: ZTDZ, label: 【正統道藏・三家本】}
+assets:
+  parts: []
+table_of_contents: []
+hash: sha256:748ff26d10a02a7c25327a10f09c83b479f11d91b5a23933e16393c41c05b3f6

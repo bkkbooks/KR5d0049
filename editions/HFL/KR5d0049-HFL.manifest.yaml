@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR5d0049/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5d0049/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天隱子
+  date: '2015-08-28 21:41:59.783118'
+  source:
+    repository: kanripo
+    path: KR5d0049
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5d0049_000-HFL.yaml, hash: 'sha256:8b93a2adfb86df2f12a6237d7d476d52b9870441a5e3cc3d272fab362a30775e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5d0049_000-HFL.markers.yaml, hash: 'sha256:9965e9a7832252c39f9db409e23dac2868fb3c6960bcad8b4667a40470fcd56d'}
+table_of_contents:
+- ref: {seq: 0, marker_id: KR5d0049_HFL_000-001a, span: [body, 0, 1536]}
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:2967e2cb3b3fa539e8706c3221006687fe9c8bf41402db6209379932dac6cb2e
